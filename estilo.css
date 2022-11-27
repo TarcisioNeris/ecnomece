@@ -14,4 +14,8 @@
     border-radius: 5px;
     justify-self: 30px;
 }
+.menu-icon{
+    cursor: pointer;
+    display: none;
+}
  

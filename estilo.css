@@ -6,16 +6,17 @@
 }
 
 .medias-socias i{
-    font-size: 23px;
+    font-size: 16px;
     margin: 0 5px;
     color: white;
     background-color: red;
     padding : 7px;
     border-radius: 5px;
-    justify-self: 30px;
+    justify-self: 20px;
 }
 .menu-icon{
     cursor: pointer;
     display: none;
+     
 }
  
